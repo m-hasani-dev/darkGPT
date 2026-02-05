@@ -31,9 +31,10 @@ The project is built in Python and leverages multiple AI APIs to deliver dynamic
 
 🚀 Getting Started
 1️⃣ Clone the Repository
+```
 git clone https://github.com/m-hasani-dev/darkGPT.git
 cd darkGPT
-
+```
 2️⃣ Create Virtual Environment (Recommended)
 ```
 python -m venv venv
